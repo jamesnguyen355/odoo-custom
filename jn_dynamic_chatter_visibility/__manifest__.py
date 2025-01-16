@@ -18,6 +18,7 @@
             'jn_dynamic_chatter_visibility/static/src/js/chatter_visibility_form_renderer.js',
         ],
     },
+    "images": ['static/description/guide.gif']
     "sequence": 1,
     "application": True,
     "installable": True,
